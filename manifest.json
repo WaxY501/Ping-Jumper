@@ -1,1 +1,13 @@
-
+{
+  "name": "Ping Jumper",
+  "description": "Jump to your newest mention in selected servers and channels.",
+  "authors": [
+    {
+      "name": "WaxY501"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_notification_24px"
+  }
+}
